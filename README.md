@@ -23,10 +23,11 @@ You also need to make sure you have the two required homepoints it will not send
 
 This version is made to work with Silmaril.
 
-The gear swap files that are need are Selindrile's and can be found here. https://github.com/mattwells/Selindrile-GearSwap  
+The gear swap files that are needed are Selindrile's and can be found here. https://github.com/mattwells/Selindrile-GearSwap  
 
 To change the trust that is has it is near the bottom of the main lua Beadit.lua
 
 If you have any questions can just message me on Discord frey4200 
 
 Cheers!
+
