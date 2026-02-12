@@ -27,7 +27,7 @@ The gear swap files that are needed are Selindrile's and can be found here. http
 Uses the autows feature can set in the indivial gear set with autows_list = {['Carn']="Mordant Rime"} to your Weapon options
 
 In Silmaril you want to make sure you have on Combat Atack on, run to target and set enable postion front right or left foot. 
-Also make sure you have on Fighting
+Also make sure you have on Fighting (This is only for adds)
 
 
 To change the trust that is has it is near the bottom of the main lua Beadit.lua
@@ -37,5 +37,6 @@ To change the trust that is has it is near the bottom of the main lua Beadit.lua
 If you have any questions can just message me on Discord frey4200 
 
 Cheers!
+
 
 
