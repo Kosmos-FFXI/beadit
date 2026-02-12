@@ -18,6 +18,10 @@ Commands:
             reload  //beadit reload 
          	unload  //lua unload beadit
 
+
+
+All files go into your addons folder of windower. 
+
 Make sure that you set your homepoint to Norg 1 it is hard coded to start there. As well as you need warp ring and Holla teleport ring.
 You also need to make sure you have the two required homepoints it will not send you to them if you do not have them.  
 
@@ -28,15 +32,12 @@ This version is made to work with Silmaril.
 In Silmaril you want to make sure you have on Combat Atack on, run to target and set enable postion front right or left foot. 
 Also make sure you have on Fighting (This is only for adds)
 
-
-
 To change the trust that is has it is near the bottom of the main lua Beadit.lua
-
-
 
 If you have any questions can just message me on Discord frey4200 
 
 Cheers!
+
 
 
 
