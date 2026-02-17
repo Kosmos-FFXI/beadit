@@ -9,7 +9,7 @@ Beadit, Silmaril version
 
 Abbreviation: //beadit
 
-Required addons: Superwarp, Enternity, Selindrile-Gearswap, Silmaril
+Required addons: Superwarp, Enternity, Shortcuts, Selindrile-Gearswap, Silmaril
 
 Commands:
             load    //lua load beadit
@@ -37,6 +37,7 @@ To change the trust that is has it is near the bottom of the main lua Beadit.lua
 If you have any questions can just message me on Discord frey4200 
 
 Cheers!
+
 
 
 
